@@ -1,0 +1,17 @@
+site_name: Shang Ma
+site_url: http://home.ustc.edu.cn/~ms123/
+site_author: Marshon
+repo_url: https://github.com/Marshon36?tab=repositories
+
+copyright: Copyright &copy; 2022 USTC · Marshon
+
+nav:
+  - Index: index.md
+
+theme: 
+    name: darkly
+
+google_analytics:
+  - UA-222796934-1
+  - auto
+
