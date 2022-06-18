@@ -1,7 +1,7 @@
 #Shang Ma
 <img src=Marshon.jpg width=30% />
 
-A first-year graduate student at the DAMS group (DAta Mining for Seismology) in USTC.
+A first-year graduate member of [DAMS](https://dams.ustc.edu.cn/) (DAta Mining for Seismology) group in USTC.
 
 **Email**: ms123@mail.ustc.edu.cn; ms827291129@163.com
 
@@ -11,7 +11,7 @@ A first-year graduate student at the DAMS group (DAta Mining for Seismology) in 
 * 2017/09-2021/06 USTC, School of Earth and Space Science (BSc degree)
 
 ##Publications
-1. Ma, S., Li, Z., W. Wang, Machine learning of source spectra for large earthquakes, in revision for Geophys. J. Int. [[Link]](https://www.essoar.org/doi/10.1002/essoar.10508367.1#)
+1. Ma, S., Li, Z., W. Wang, Machine learning of source spectra for large earthquakes, Geophys. J. Int., in press. [[Link]](https://doi.org/10.1093/gji/ggac215)
 
 ##Research interests
 * Application of artificial intelligence to seismic source processes and deep earth structures
@@ -19,9 +19,9 @@ A first-year graduate student at the DAMS group (DAta Mining for Seismology) in 
 
 ##Awards
 * 2020
-    GuangHua scholarship
+    USTC GuangHua Scholarship
 * 2019
-    Excellent student scholarship bronze award
+    USTC Excellent Student Scholarship
 
 ##Contact
 ```bash
@@ -32,8 +32,3 @@ P. R. China
 Teaching and Research Building, ROOM 701
 ```
 
-##Basketball
-<div align=center>
-<img src=basketball.jpg width=80% />
-<center><p>After an important basketball game with my friends before graduation (2021/6/21, USTC)</p></center>
-</div>
