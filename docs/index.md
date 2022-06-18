@@ -1,4 +1,4 @@
-#Shang Ma
+#Shang Ma[[CV]](CV_Mashang.pdf)
 <img src=Marshon.jpg width=30% />
 
 A first-year graduate member of [DAMS](https://dams.ustc.edu.cn/) (DAta Mining for Seismology) group in USTC.
