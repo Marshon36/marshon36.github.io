@@ -1,4 +1,4 @@
-#Shang Ma[[CV]](CV_Mashang.pdf)
+#Shang Ma[[CV]](cv2.pdf)
 <img src=Marshon.jpg width=30% />
 
 A first-year graduate member of [DAMS](https://dams.ustc.edu.cn/) (DAta Mining for Seismology) group in USTC.
@@ -11,13 +11,15 @@ A first-year graduate member of [DAMS](https://dams.ustc.edu.cn/) (DAta Mining f
 * 2017/09-2021/06 USTC, School of Earth and Space Science (BSc degree)
 
 ##Publications
-1. Ma, S., Li, Z., W. Wang, Machine learning of source spectra for large earthquakes, Geophys. J. Int., in press. [[Link]](https://doi.org/10.1093/gji/ggac215)
+1. Ma, S., Li, Z., W. Wang, Machine learning of source spectra for large earthquakes, Geophys. J. Int. [[Link]](https://doi.org/10.1093/gji/ggac215)
 
 ##Research interests
 * Application of artificial intelligence to seismic source processes and deep earth structures
 * DAS data processing
 
 ##Awards
+* 2023 
+    IPACES 2nd Prize Poster Presentation Award "A machine learning perspective on geochemical dichotomy of the lower mantle"
 * 2020
     USTC GuangHua Scholarship
 * 2019
