@@ -17,31 +17,8 @@ abstract: >
   seismicity classifiers at Kilauea Volcano, Hawaii.
 summary: "A study connecting supervised and unsupervised learning for volcano seismicity classification."
 featured: true
-doi: "10.1785/0220230251"
 draft: false
-links:
-  - name: PDF
-    url: ""
-  - name: Code
-    url: ""
-  - name: Dataset
-    url: ""
-  - name: Poster
-    url: ""
-  - name: Project
-    url: ""
-  - name: Slides
-    url: ""
-  - name: Source
-    url: ""
-  - name: Video
-    url: ""
-url_pdf: ""
-url_code: ""
-url_dataset: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+hugoblox:
+  ids:
+    doi: "10.1785/0220230251"
 ---

@@ -13,29 +13,4 @@ abstract: >
 summary: "A submitted manuscript on deep mantle hemispheric geochemical dichotomy using machine learning."
 featured: false
 draft: false
-links:
-  - name: PDF
-    url: ""
-  - name: Code
-    url: ""
-  - name: Dataset
-    url: ""
-  - name: Poster
-    url: ""
-  - name: Project
-    url: ""
-  - name: Slides
-    url: ""
-  - name: Source
-    url: ""
-  - name: Video
-    url: ""
-url_pdf: ""
-url_code: ""
-url_dataset: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
 ---
