@@ -1,0 +1,110 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Shang Ma
+  given: Shang
+  family: Ma
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: ""
+role: PhD Student in Geophysics
+bio: |
+  Shang Ma is a PhD student at the University of Science and Technology of China.
+  His research focuses on seismic source processes, deep Earth structure, and
+  machine-learning methods for seismology.
+
+affiliations:
+  - name: DAMS Group, University of Science and Technology of China
+    url: https://dams.ustc.edu.cn/
+  - name: School of Earth and Space Sciences, USTC
+    url: https://ess.ustc.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:marshon@mail.ustc.edu.cn
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Marshon36
+
+interests:
+  - Seismic source processes
+  - Deep Earth structure
+  - Machine learning for seismology
+
+education:
+  - degree: PhD in Geophysics
+    institution: University of Science and Technology of China
+    start: 2021-09-01
+    end: 2026-12-31
+    summary: |
+      PhD student in the School of Earth and Space Sciences and a member of the DAMS group.
+    button:
+      text: Download CV
+      url: /uploads/resume.pdf
+      icon: hero/arrow-down-tray
+  - degree: BSc in Earth and Space Sciences
+    institution: University of Science and Technology of China
+    start: 2017-09-01
+    end: 2021-06-30
+
+experience:
+  - role: PhD Student
+    org: University of Science and Technology of China
+    start: 2021-09-01
+    summary: |
+      Conducting research on earthquake source physics, deep mantle structure, and
+      machine-learning applications in seismology.
+    button:
+      text: View publications
+      url: /#papers
+      icon: hero/arrow-right
+  - role: Undergraduate Student
+    org: University of Science and Technology of China
+    start: 2017-09-01
+    end: 2021-06-30
+    summary: |
+      Completed undergraduate studies in Earth and Space Sciences.
+
+skills:
+  - name: Research Areas
+    items:
+      - label: Seismology
+        level: 5
+      - label: Earth Structure
+        level: 4
+      - label: Machine Learning
+        level: 4
+  - name: Tools
+    items:
+      - label: Python
+        level: 5
+      - label: Data Analysis
+        level: 4
+      - label: Scientific Writing
+        level: 4
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Professional
+
+awards:
+  - title: IPACES 2nd Prize Poster Presentation Award
+    awarder: IPACES
+    date: "2023-01-01"
+    icon: hero/trophy
+  - title: USTC GuangHua Scholarship
+    awarder: University of Science and Technology of China
+    date: "2020-01-01"
+    icon: hero/academic-cap
+  - title: USTC Excellent Student Scholarship
+    awarder: University of Science and Technology of China
+    date: "2019-01-01"
+    icon: hero/academic-cap
