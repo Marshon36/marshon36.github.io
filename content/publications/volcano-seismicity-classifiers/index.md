@@ -18,4 +18,21 @@ featured: true
 hugoblox:
   ids:
     doi: 10.1785/0220230251
+links:
+  - type: pdf
+    url: ""
+  - type: code
+    url: ""
+  - type: dataset
+    url: ""
+  - type: poster
+    url: ""
+  - type: project
+    url: ""
+  - type: slides
+    url: ""
+  - type: source
+    url: ""
+  - type: video
+    url: ""
 ---

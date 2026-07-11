@@ -15,4 +15,21 @@ featured: true
 hugoblox:
   ids:
     doi: 10.1093/gji/ggac215
+links:
+  - type: pdf
+    url: ""
+  - type: code
+    url: ""
+  - type: dataset
+    url: ""
+  - type: poster
+    url: ""
+  - type: project
+    url: ""
+  - type: slides
+    url: ""
+  - type: source
+    url: ""
+  - type: video
+    url: ""
 ---

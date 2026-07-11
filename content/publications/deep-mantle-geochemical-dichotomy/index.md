@@ -10,4 +10,21 @@ publication:
 peer_reviewed: false
 summary: "A submitted manuscript on deep mantle hemispheric geochemical dichotomy using machine learning."
 featured: false
+links:
+  - type: pdf
+    url: ""
+  - type: code
+    url: ""
+  - type: dataset
+    url: ""
+  - type: poster
+    url: ""
+  - type: project
+    url: ""
+  - type: slides
+    url: ""
+  - type: source
+    url: ""
+  - type: video
+    url: ""
 ---
