@@ -7,29 +7,38 @@ authors:
 date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication:
-  name: "Geophysical Journal International"
-peer_reviewed: true
+publication: "*Geophysical Journal International*"
+publication_short: "GJI"
+abstract: >
+  A study on machine-learning approaches to estimating source spectra for large
+  earthquakes.
 summary: "A study on machine-learning approaches to source spectra for large earthquakes."
 featured: true
-hugoblox:
-  ids:
-    doi: 10.1093/gji/ggac215
+doi: "10.1093/gji/ggac215"
+draft: false
 links:
-  - type: pdf
+  - name: PDF
     url: ""
-  - type: code
+  - name: Code
     url: ""
-  - type: dataset
+  - name: Dataset
     url: ""
-  - type: poster
+  - name: Poster
     url: ""
-  - type: project
+  - name: Project
     url: ""
-  - type: slides
+  - name: Slides
     url: ""
-  - type: source
+  - name: Source
     url: ""
-  - type: video
+  - name: Video
     url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---

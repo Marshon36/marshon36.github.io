@@ -46,5 +46,5 @@ sections:
           - publications
       count: 5
     design:
-      view: citation
+      view: compact
 ---

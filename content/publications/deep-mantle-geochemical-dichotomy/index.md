@@ -4,27 +4,38 @@ authors:
   - me
 date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
-publication_types: ["article"]
-publication:
-  name: "Submitted manuscript"
-peer_reviewed: false
+publication_types: ["manuscript"]
+publication: "Submitted manuscript"
+publication_short: "Manuscript"
+abstract: >
+  A submitted manuscript exploring the hemispheric geochemical dichotomy of the deep
+  mantle with machine-learning methods.
 summary: "A submitted manuscript on deep mantle hemispheric geochemical dichotomy using machine learning."
 featured: false
+draft: false
 links:
-  - type: pdf
+  - name: PDF
     url: ""
-  - type: code
+  - name: Code
     url: ""
-  - type: dataset
+  - name: Dataset
     url: ""
-  - type: poster
+  - name: Poster
     url: ""
-  - type: project
+  - name: Project
     url: ""
-  - type: slides
+  - name: Slides
     url: ""
-  - type: source
+  - name: Source
     url: ""
-  - type: video
+  - name: Video
     url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---

@@ -10,29 +10,38 @@ authors:
 date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication:
-  name: "Seismological Research Letters"
-peer_reviewed: true
+publication: "*Seismological Research Letters*"
+publication_short: "SRL"
+abstract: >
+  A study that combines supervised and unsupervised learning to build volcano
+  seismicity classifiers at Kilauea Volcano, Hawaii.
 summary: "A study connecting supervised and unsupervised learning for volcano seismicity classification."
 featured: true
-hugoblox:
-  ids:
-    doi: 10.1785/0220230251
+doi: "10.1785/0220230251"
+draft: false
 links:
-  - type: pdf
+  - name: PDF
     url: ""
-  - type: code
+  - name: Code
     url: ""
-  - type: dataset
+  - name: Dataset
     url: ""
-  - type: poster
+  - name: Poster
     url: ""
-  - type: project
+  - name: Project
     url: ""
-  - type: slides
+  - name: Slides
     url: ""
-  - type: source
+  - name: Source
     url: ""
-  - type: video
+  - name: Video
     url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
