@@ -43,6 +43,8 @@
   #section-markdown .prose ol {
     margin: 0;
     padding-left: 1.4rem;
+    font-size: 1rem;
+    line-height: 1.75;
   }
 
   #papers .prose li,
@@ -58,14 +60,19 @@
   #papers .prose li p,
   #section-markdown .prose li p {
     margin: 0;
-    line-height: 1.45;
+    line-height: 1.75;
   }
 
   #papers .prose li a,
   #section-markdown .prose li a {
-    pointer-events: none;
-    cursor: text;
-    color: inherit !important;
-    text-decoration: none !important;
+    pointer-events: auto;
+    cursor: pointer;
+    color: var(--color-primary-600) !important;
+    text-decoration: underline !important;
+  }
+
+  .dark #papers .prose li a,
+  .dark #section-markdown .prose li a {
+    color: var(--color-primary-400) !important;
   }
 </style>
