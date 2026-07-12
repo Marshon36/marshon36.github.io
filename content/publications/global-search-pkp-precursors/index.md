@@ -12,7 +12,7 @@ date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Geophysical Research Letters*"
-publication_short: "GRL"
+publication_short: "Geophysical Research Letters"
 abstract: >
   A graph-neural-network-based global search for PKP precursors and its
   implications for scatterers in the lowermost mantle.
