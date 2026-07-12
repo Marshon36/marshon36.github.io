@@ -3,4 +3,39 @@
   #section-resume-biography-3 .md\:col-span-8 > .mb-12 > .flex.items-center.gap-4.mb-8 {
     display: none;
   }
+
+  #papers .flex.flex-col.space-y-3,
+  #section-content-collection .flex.flex-col.space-y-3 {
+    counter-reset: publication-counter;
+  }
+
+  #papers .pub-list-item.view-citation,
+  #section-content-collection .pub-list-item.view-citation {
+    position: relative;
+    padding-left: 2rem;
+  }
+
+  #papers .pub-list-item.view-citation::before,
+  #section-content-collection .pub-list-item.view-citation::before {
+    counter-increment: publication-counter;
+    content: counter(publication-counter) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: 700;
+    color: inherit;
+  }
+
+  #papers .pub-list-item.view-citation .pub-icon,
+  #section-content-collection .pub-list-item.view-citation .pub-icon {
+    display: none;
+  }
+
+  #papers .pub-list-item.view-citation a,
+  #section-content-collection .pub-list-item.view-citation a {
+    pointer-events: none;
+    cursor: text;
+    color: inherit !important;
+    text-decoration: none !important;
+  }
 </style>
