@@ -13,13 +13,10 @@ status:
   icon: ""
 role: PhD Student in Geophysics
 bio: |
-  Shang Ma is a PhD student at the University of Science and Technology of China.
-  He is a member of the DAMS (Data Mining for Seismology) group at USTC. His
-  current work combines geophysical insight with statistical and
-  machine-learning tools to better understand earthquakes and Earth's interior.
-
-  His main interests include seismic source processes, deep Earth structures,
-  and machine learning for seismology.
+  I am a PhD student at the University of Science and Technology of China and a
+  member of the Data Mining for Seismology (DAMS) group. My research focuses on
+  using machine learning to investigate earthquake source processes and deep
+  Earth structure.
 
 affiliations:
   - name: DAMS Group, University of Science and Technology of China
