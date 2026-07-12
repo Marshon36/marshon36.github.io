@@ -39,16 +39,21 @@ interests:
 education:
   - degree: PhD in Geophysics
     institution: University of Science and Technology of China
-    start: 2021-09-01
-    end: 2026-12-31
+    start: "2021"
+    end: "Present"
     summary: |
       PhD student in the School of Earth and Space Sciences and a member of the DAMS group.
   - degree: BSc in Earth and Space Sciences
     institution: University of Science and Technology of China
-    start: 2017-09-01
-    end: 2021-06-30
+    start: "2017"
+    end: "2021"
 
 experience:
+  - role: Visiting Student
+    org: Nanyang Technological University
+    start: 2026-05-01
+    summary: |
+      Visiting student at Nanyang Technological University.
   - role: PhD Student
     org: University of Science and Technology of China
     start: 2021-09-01

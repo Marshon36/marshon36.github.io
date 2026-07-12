@@ -14,7 +14,7 @@ sections:
     content:
       username: me
     design:
-      date_format: 'January 2006'
+      date_format: '2006'
       is_education_first: true
   - block: resume-skills
     content:
