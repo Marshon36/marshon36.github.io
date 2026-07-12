@@ -2,15 +2,21 @@
 title: "Deciphering Earth's deep mantle hemispheric geochemical dichotomy with machine learning"
 authors:
   - me
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+  - Zefeng Li
+  - L. Chen
+  - J. Shen
+  - Y. Li
+  - Wei Wang
+  - W. Len
+date: "2026-06-01T00:00:00Z"
+publishDate: "2026-06-01T00:00:00Z"
 publication_types: ["manuscript"]
-publication: "Submitted manuscript"
-publication_short: "Manuscript"
+publication: "In revision"
+publication_short: "In revision"
 abstract: >
-  A submitted manuscript exploring the hemispheric geochemical dichotomy of the deep
-  mantle with machine-learning methods.
-summary: "A submitted manuscript on deep mantle hemispheric geochemical dichotomy using machine learning."
-featured: false
+  A machine-learning study of Earth's deep mantle hemispheric geochemical
+  dichotomy, currently in revision.
+summary: "A machine-learning study of Earth's deep mantle hemispheric geochemical dichotomy."
+featured: true
 draft: false
 ---
