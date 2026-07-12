@@ -37,23 +37,22 @@ interests:
   - Machine learning for seismology
 
 education:
+  - degree: Visiting Student
+    institution: Nanyang Technological University
+    start: "2026.05"
+    end: "Present"
   - degree: PhD in Geophysics
     institution: University of Science and Technology of China
     start: "2021"
     end: "Present"
     summary: |
       PhD student in the School of Earth and Space Sciences and a member of the DAMS group.
-  - degree: BSc in Earth and Space Sciences
+  - degree: BSc in Geophysics
     institution: University of Science and Technology of China
     start: "2017"
     end: "2021"
 
 experience:
-  - role: Visiting Student
-    org: Nanyang Technological University
-    start: 2026-05-01
-    summary: |
-      Visiting student at Nanyang Technological University.
   - role: PhD Student
     org: University of Science and Technology of China
     start: 2021-09-01
