@@ -1,12 +1,12 @@
 ---
 title: "Deciphering Earth's deep mantle hemispheric geochemical dichotomy with machine learning"
 authors:
-  - me
-  - Zefeng Li
+  - S. Ma
+  - Z. Li
   - L. Chen
   - J. Shen
   - Y. Li
-  - Wei Wang
+  - W. Wang
   - W. Len
 date: "2026-06-01T00:00:00Z"
 publishDate: "2026-06-01T00:00:00Z"

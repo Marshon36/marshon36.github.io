@@ -1,8 +1,8 @@
 ---
 title: "Systematic Detection of PKP Precursors on China National Seismograph Network with Deep Learning"
 authors:
-  - me
-  - Zefeng Li
+  - S. Ma
+  - Z. Li
   - D. Sun
   - J. Li
   - Y. Su

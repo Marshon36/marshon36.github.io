@@ -1,8 +1,8 @@
 ---
 title: "Global Search of PKP Precursors With Graph Neural Network: Implications for Scatterers in the Lowermost Mantle"
 authors:
-  - me
-  - Zefeng Li
+  - S. Ma
+  - Z. Li
   - D. Sun
   - Y. Su
   - J. Li
