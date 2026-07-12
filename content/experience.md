@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'CV'
 date: 2023-10-24
 type: landing
 
@@ -28,4 +28,12 @@ sections:
     content:
       title: Languages
       username: me
+  - block: collection
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publications
+    design:
+      view: citation
 ---

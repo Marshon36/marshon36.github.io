@@ -11,5 +11,5 @@ main:
     url: /#papers
     weight: 11
   - name: CV
-    url: experience/
+    url: /uploads/resume.pdf
     weight: 20

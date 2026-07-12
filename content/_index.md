@@ -10,9 +10,6 @@ sections:
     content:
       username: me
       text: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -26,25 +23,13 @@ sections:
       avatar:
         size: medium
         shape: rounded
-  - block: markdown
-    content:
-      title: 'Research'
-      subtitle: ''
-      text: |-
-        I am a member of the [DAMS](https://dams.ustc.edu.cn/) (Data Mining for Seismology) group at USTC.
-        My current work combines geophysical insight with statistical and machine-learning tools to better understand earthquakes and Earth's interior.
-
-        My main interests include seismic source processes, deep Earth structures, and machine learning for seismology.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
-      title: Selected Publications
+      title: Publications
       filters:
         folders:
           - publications
-      count: 5
     design:
       view: citation
 ---
