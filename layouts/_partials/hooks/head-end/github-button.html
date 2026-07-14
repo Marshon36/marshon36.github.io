@@ -44,7 +44,18 @@
   }
 
   #section-resume-biography-3 .md\:col-span-8 > .mb-12 > .flex.items-center.gap-4.mb-8 {
-    display: none;
+    display: flex;
+  }
+
+  #section-resume-biography-3 .md\:col-span-8 > .mb-12 > .flex.items-center.gap-4.mb-8 h2 {
+    font-size: 0;
+    line-height: 0;
+  }
+
+  #section-resume-biography-3 .md\:col-span-8 > .mb-12 > .flex.items-center.gap-4.mb-8 h2::after {
+    content: "Summary";
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 
   #papers .flex.flex-col.space-y-3,
