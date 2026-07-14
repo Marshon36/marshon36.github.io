@@ -32,18 +32,15 @@ links:
 education:
   - degree: Visiting Student
     institution: Nanyang Technological University
-    start: "2026.05"
-    end: "Present"
+    start: "2026.05-Present"
   - degree: PhD in Geophysics
     institution: University of Science and Technology of China
-    start: "2021"
-    end: "Present"
+    start: "2021-Present"
     summary: |
       PhD student in the School of Earth and Space Sciences and a member of the DAMS group.
   - degree: BSc in Geophysics
     institution: University of Science and Technology of China
-    start: "2017"
-    end: "2021"
+    start: "2017-2021"
 
 experience:
   - role: PhD Student
