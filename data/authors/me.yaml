@@ -28,6 +28,9 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Marshon36
+  - icon: hero/academic-cap
+    url: https://scholar.google.com/citations?hl=zh-CN&user=ohnC6TkAAAAJ
+    label: Google Scholar
 
 interests:
   - Machine Learning
