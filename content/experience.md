@@ -32,7 +32,7 @@ sections:
     content:
       title: Publications
       text: |-
-        1. Ma, S., Li, Z., Wang, W., Sun, D., Li, J., & Su, Y. (under review). Systematic Detection of PKP Precursors on China National Seismograph Network with Deep Learning.
+        1. Ma, S., Li, Z., Wang, W., Sun, D., Li, J., & Su, Y. (under review). Systematic Detection of PKP Precursors on the China National Seismograph Network with Deep Learning.
 
         1. Ma, S., Li, Z., Sun, D., Su, Y., Li, J., Si, X., & Zhu, J. (2025). Global Search of PKP Precursors With Graph Neural Network: Implications for Scatterers in the Lowermost Mantle. Geophysical Research Letters, 52(17), e2025GL115952. https://doi.org/10.1029/2025GL115952
 
